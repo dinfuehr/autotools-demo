@@ -1,0 +1,26 @@
+*~
+
+# http://www.gnu.org/software/automake
+
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+
+/example1/autom4te.cache
+/example1/aclocal.m4
+/example1/compile
+/example1/configure
+/example1/depcomp
+/example1/install-sh
+/example1/missing
+/example1/stamp-h1
+/example1/build-aux
+/example1/config.h.in
+/example1/Makefile
+/example1/config.h
+/example1/config.status
+/example1/config.log
+/example1/.deps
+
+/example1/*.o
+/example1/hello
