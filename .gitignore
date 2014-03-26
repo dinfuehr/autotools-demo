@@ -6,6 +6,11 @@ Makefile.in
 
 # http://www.gnu.org/software/autoconf
 
+/example0/autom4te.cache
+/example0/config.log
+/example0/config.status
+/example0/configure
+
 /example1/autom4te.cache
 /example1/aclocal.m4
 /example1/compile
