@@ -24,3 +24,23 @@ Makefile.in
 
 /example1/*.o
 /example1/hello
+
+/example2/autom4te.cache
+/example2/aclocal.m4
+/example2/compile
+/example2/configure
+/example2/depcomp
+/example2/install-sh
+/example2/missing
+/example2/stamp-h1
+/example2/build-aux
+/example2/config.h.in
+/example2/Makefile
+/example2/config.h
+/example2/config.status
+/example2/config.log
+/example2/**/.deps
+/example2/**/.dirstamp
+
+/example2/**/*.o
+/example2/hello
