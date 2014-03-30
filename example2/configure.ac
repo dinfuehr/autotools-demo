@@ -25,6 +25,7 @@ AC_CONFIG_FILES([Makefile])
 
 # Checks for programs, e.g., AC_PROG_CC
 AC_PROG_CC
+AM_PROG_CC_C_O
 
 # Checks for libraries.
 
